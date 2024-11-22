@@ -1,12 +1,9 @@
 <img src="https://github.com/NoWayMx/RecursosGraficos/blob/main/Logotipos/NOWAY_portada.png?raw=true">
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mr__TechX?color=%231DA1F2&label=Mr.%20TechX&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://nowaymx.github.io)
+----
+Somos una marca de ropa y productora musical Méxicana que realiza estampados y personalizacion de prendas como playeras y sudaderas.
+---
+NoWayMx es una pequeña empresa que se dedica a la producción musical y la fabricacion y estampado de prendas 100% personalizables con un precio competitivo, se planea la expanción para poder llegar a mas lugares del mundo para que todos puedan adquirir nuestra mercancia.
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+NoWayMx donde la Musica viste buen estilo.
